@@ -3,9 +3,12 @@
 <h4> Professor: Fred Aguiar </h4>
 <hr>
 
-### Introdução
+<h3> Introdução: </h3>
+Nossa equipe se reuniu em um projeto colaborativo para a realização das atividades no arduino que foram atribuidas pelo professor, em busca de aprimorar nosso conhecimento sobre os Fundamentos de Iot.
 
-### 01 - Mudar a velocidade do Led.
-### 02 - Criar um padrão (Fazer o Led piscar 3 vezes rápido e depois 1 vez devagar).
-### 03 - Adicionar um botão o Led só deve piscar se um botão estiver pressionado.
-### 04 - *(Desafio)* Controlar o tempo de acendimento do Led usando uma variável.
+<h3> Atividades: </h3>
+
+<h4> 01 - Mudar a velocidade do Led. </h4>
+<h4> 02 - Criar um padrão (Fazer o Led piscar 3 vezes rápido e depois 1 vez devagar).</h4> 
+<h4> 03 - Adicionar um botão o Led só deve piscar se um botão estiver pressionado.</h4> 
+<h4> 04 - *(Desafio)* Controlar o tempo de acendimento do Led usando uma variável.</h4> 
