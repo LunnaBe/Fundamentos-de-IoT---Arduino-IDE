@@ -6,34 +6,33 @@
 <h3> Introdução: </h3>
 Nossa equipe se reuniu em um projeto colaborativo para a realização das atividades no arduino que foram atribuidas pelo professor, em busca de aprimorar nosso conhecimento sobre os Fundamentos de Iot.
 
+<hr>
+
 <h3> Atividades: </h3>
 
 #### 01 - Mudar a velocidade do Led. 
-Nesta atividade, você aprenderá a alterar a frequência com que um LED pisca, controlando o tempo de espera no código para criar efeitos de piscar mais rápidos ou mais lentos.
+Nesta atividade, aprendemos a alterar a frequência com que um LED pisca, controlando o tempo de espera no código para criar efeitos de piscar mais rápidos ou mais lentos.
 
-<p align="center">
-<img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1.png" />
-</p>
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1.png" /> </p>
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1%20-%20Arduino.jpg" height="700" width="700" /> </p>
+<hr>
 
 #### 02 - Criar um padrão (Fazer o Led piscar 3 vezes rápido e depois 1 vez devagar).
 O objetivo é programar o LED para piscar em uma sequência específica: três piscadas rápidas seguidas por uma piscada longa. Isso introduz a lógica de criação de padrões e sequências no código.
 
-<p align="center">
-<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/2.png" />
-</p>
+<p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/2.png" /> </p>
+<hr>
 
 #### 03 - Adicionar um botão o Led só deve piscar se um botão estiver pressionado.
-Vamos adicionar um botão ao circuito. O LED só poderá executar sua rotina de piscar quando o botão do controle estiver pressionado, ensinando o conceito de entrada digital (input) para controlar uma saída (output).
-<p align="center">
-<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3.png" /> 
-<br>
-<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-Luz%20Acesa.jpg" /> 
-<br>
-<img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-%20Luz%20Apagada.jpg" />
-</p>
+Adicionamos um botão ao circuito. O LED só poderá executar sua rotina de piscar quando o botão do controle estiver pressionado, ensinando o conceito de entrada digital (input) para controlar uma saída (output).
+
+<p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3.png" height="700" width="700" /> </p>
+<p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-Luz%20Acesa.jpg" height="700" width="700" /> </p>
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-%20Luz%20Apagada.jpg" height="700" width="700" /> </p>
+<hr>
 
 #### 04 - *(Desafio)* Controlar o tempo de acendimento do Led usando uma variável.
-Neste desafio, você irá criar uma variável no código para armazenar o tempo que o LED ficará aceso. Ao modificar o valor dessa variável em um único local, você poderá alterar o comportamento do piscar em todo o programa de forma fácil e eficiente.
-<p align="center">
-<img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/4.png" />
-</p>
+Neste desafio, criamos duas variáveis (tempo1 e tempo2) no código para armazenar o tempo que o LED ficará aceso. Ao modificar o valor das variáveis em um único local, alteramos o comportamento do piscar em todo o programa de forma fácil e eficiente.
+
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/4.png" /> </p>
+<hr>
