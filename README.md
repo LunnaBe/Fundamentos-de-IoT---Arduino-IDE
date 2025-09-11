@@ -25,8 +25,10 @@ O objetivo é programar o LED para piscar em uma sequência específica: três p
 #### 03 - Adicionar um botão o Led só deve piscar se um botão estiver pressionado.
 Vamos adicionar um botão ao circuito. O LED só poderá executar sua rotina de piscar quando o botão estiver pressionado, ensinando o conceito de entrada digital (input) para controlar uma saída (output).
 <p align="center">
-<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3.png" />
-<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-Luz%20Acesa.jpg" />
+<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3.png" /> 
+<br>
+<img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-Luz%20Acesa.jpg" /> 
+<br>
 <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-%20Luz%20Apagada.jpg" />
 </p>
 
