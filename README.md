@@ -14,7 +14,8 @@ Nossa equipe se reuniu em um projeto colaborativo para a realização das ativid
 Nesta atividade, aprendemos a alterar a frequência com que um LED pisca, controlando o tempo de espera no código para criar efeitos de piscar mais rápidos ou mais lentos.
 
 <p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1.png" /> </p>
-<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1%20-%20Arduino.jpg" height="700" width="700" /> </p>
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1%20-%20Arduino%201.jpg" height="700" width="700" /> </p>
+<p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/1%20-%20Arduino%202.jpg" height="700" width="700" /> </p>
 <hr>
 
 #### 02 - Criar um padrão (Fazer o Led piscar 3 vezes rápido e depois 1 vez devagar).
@@ -27,7 +28,7 @@ O objetivo é programar o LED para piscar em uma sequência específica: três p
 Adicionamos um botão ao circuito. O LED só poderá executar sua rotina de piscar quando o botão do controle estiver pressionado, ensinando o conceito de entrada digital (input) para controlar uma saída (output).
 
 <p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3.png" height="700" width="700" /> </p>
-<p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-Luz%20Acesa.jpg" height="700" width="700" /> </p>
+<p align="center"> <img align = center src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-%20Luz%20Acesa.jpg" height="700" width="700" /> </p>
 <p align="center"> <img src="https://github.com/LunnaBe/Fundamentos-de-IoT---Arduino-IDE/blob/main/Imagens%20IoT/3%20-%20Luz%20Apagada.jpg" height="700" width="700" /> </p>
 <hr>
 
