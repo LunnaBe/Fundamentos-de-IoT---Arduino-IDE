@@ -1,7 +1,9 @@
-<h1 align = center> Fundamentos de IoT - Arduino-IDE </h1>
+<h1 align = center> Fundamentos de IoT - Arduino-IDE </h1> <br>
+<h4> Alunos: Luna Beatriz, Marilene Araujo, Maycon Siqueira </h4>
+<h4> Professor: Fred Aguiar </h4>
+<hr>
 
-Alunos: Luna Beatriz, Marilene Araujo, Maycon Siqueira
-Professor: Fred Aguiar
+### Introdução
 
 ### 01 - Mudar a velocidade do Led.
 ### 02 - Criar um padrão (Fazer o Led piscar 3 vezes rápido e depois 1 vez devagar).
