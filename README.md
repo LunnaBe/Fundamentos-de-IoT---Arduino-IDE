@@ -1,6 +1,6 @@
 <h1 align = center> Fundamentos de IoT - Arduino-IDE </h1>
-<h4> Alunos: Luna Beatriz, Marilene Araujo, Maycon Siqueira </h4>
 <h4> Professor: Fred Aguiar </h4>
+<h4> Alunos: Luna Beatriz, Marilene Araujo, Maycon Siqueira </h4>
 <hr>
 
 <h3> Introdução: </h3>
